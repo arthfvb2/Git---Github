@@ -1,1 +1,0 @@
-Issue sao os registros de tarefas a serem executadas no repositorio.
